@@ -1,0 +1,13 @@
+Création d'un site avec :
+
+Une page Acceuil
+Une page d'inscription
+Une page pour lister/modifier/supprimer le(s) utilisateur(s)
+
+Implémentation de Spring Security 3:
+
+inMemory user profile
+password encoder
+filterChain
+
+
